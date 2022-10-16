@@ -1,123 +1,123 @@
 {
   "articleList": [
     {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+      "num": 1,
+      "title": "ПАРСИНГ ДАННЫХ ДЛЯ МОБИЛЬНОГО ПРИЛОЖЕНИЯ УНИВЕРСИТЕТА",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq3S7Oor06unOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Скрыпников, А. В.; Денисенко, В. В.; Берестовой, А. А.. In: Вестник Воронежского института ФСИН России. 2022 (2):126-132; Воронежский институт Федеральной службы исполнения наказаний России Language: Russian, База данных: ELibrary.RU\nТемы: mobile application; data parsing; mobile student assistant; class schedule; student rating; мобильное приложение; парсинг данных; мобильный помощник студента; расписание занятий; рейтинг студентов\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 2,
+      "title": "ПАРСИНГ ТЕЛЕГРАМ-КАНАЛОВ КАК ЭЛЕМЕНТ СИСТЕМЫ АВТОМАТИЗИРОВАННОГО АНАЛИЗА ИНФОРМАЦИИ, ПОЛУЧЕННОЙ ИЗ СЕТИ ИНТЕРНЕТ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2SbWoslG1nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Карабак, Илья Игоревич; Зорин, Кирилл Андреевич; Ажмухамедов, Искандар Маратович. In: Прикаспийский журнал: управление и высокие технологии. 2022 (1):9-17; Астраханский государственный университет Language: Russian, База данных: ELibrary.RU\nТемы: analysis; parameters; parsing; short messages; service; анализ; telegram; параметры; парсинг; короткие сообщения; сервис\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 3,
+      "title": "Парсинг аудитории в социальных медиа как инструмент повышения доходов от рекламы электронных средств массовой информации",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq1SbOvtVC3nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Бирюков, В.А.; Дмитриева, О.В.; Ливсон, М.В.. In: Известия высших учебных заведений. Проблемы полиграфии и издательского дела. 2021 (2):45-52; Московский политехнический университет Language: Russian, База данных: ELibrary.RU\nТемы: parsing; audience; social networks; media; monetization; application; service; advertising; парсинг; аудитория; социальные сети; медиа; монетизация; приложение; сервис; реклама\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 4,
+      "title": "ПАРСИНГ, ЕГО ПОСЛЕДСТВИЯ И МЕТОДЫ ПРЕДОТВРАЩЕНИЯ В ЦЕЛЯХ ЗАЩИТЫ ИНФОРМАЦИИ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKqyTK6rrk6wnOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Дубровина, А.И.. In: Modern Science. 2020 (12-3):230-233; Научно-информационный издательский центр \"Институт стратегических исследований\" Language: Russian, База данных: ELibrary.RU\nТемы: parsing; mining program; captcha; information leak; bot trap; парсинг; программа-майнинг; капча; утечка информации; ловушка для ботов\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 5,
+      "title": "ПАРСИНГ В СОЦСЕТЯХ ДЛЯ ПОЛИТКОНСУЛЬТАНТА",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKqwULSvrlG2nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Гончаров, Д.К.; Гончарова, Д.Д.. In: Modern Science. 2020 (5-2):270-274; Научно-информационный издательский центр \"Институт стратегических исследований\" Language: Russian, База данных: ELibrary.RU\nТемы: парсинг; парсер; политконсультант; социальные сети; smm; parser; social networks; political consulting\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 6,
+      "title": "Разработка парсинг-системы для получения скрытых ссылок со страниц социальных сетей",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bHi6T7y1%2bVVv8Skeeyz43zx2eqDrKe0UbWvtU22nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Электронный ресурс\nBy: АБРАМОВА ТАТЬЯНА АЛФИЕВНА. In: Вестник Пензенского государственного университета, 3 (15) 41-47, Россия, Пенза; Государственное образовательное учреждение высшего образования «Пензенский государственный университет», 2016. Language: Russian, База данных: CyberLeninka\nТемы: ПАРСИНГ; WEB-ПРИЛОЖЕНИЕ; WEB-СЕРВЕР; СКРИПТ; РЕГУЛЯРНЫЕ ВЫРАЖЕНИЯ; PHP\nДоступно только подробное описание\nПолный текст - КиберЛенинка"
+    },
+    {
+      "num": 7,
+      "title": "ПАРСИНГ ВЕБ-САЙТОВ С ИСПОЛЬЗОВАНИЕМ ШАБЛОНОВ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKmzSbemsUmynOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Ильин, В.А.; Скоселев, Д.А.. In: Мир современной науки. 2018 (2):8-12; Издательство \"Перо\" Language: Russian, База данных: ELibrary.RU\nТемы: парсинг; веб-страницы; семантический веб; шаблоны\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 8,
+      "title": "Легковесный парсинг и его использование для функций среды разработки / Lightweight parsing and its use for the functions of the development environment",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKiySLKnsk23nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Малеванный, Михаил Сергеевич / Malevanyi, M.S.. In: Информатизация и связь. 2015 (3):89-94; Администрация Ярославской области, Министерство Российской Федерации по связи и информатизации, Государственная техническая комиссия при Президенте Российской Федерации Language: Russian, База данных: ELibrary.RU\nТемы: LR-парсер; легковесный парсинг; восстановление от ошибок; генератор компиляторов; LR-parser; lightweight parsing; recovery from errors; the compiler generator\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 9,
+      "title": "ПОЛИТИЧЕСКИЙ ПАРСИНГ КАК МЕХАНИЗМ ПОЛИТИЧЕСКОЙ СОЦИАЛИЗАЦИИ МОЛОДЕЖИ В ONLINE-ПРОСТРАНСТВЕ СОВРЕМЕННОЙ РОССИИ / POLITICAL PARSING AS THE MECHANISM OF POLITICAL SOCIALIZATION OF YOUTH IN MODERN RUSSIA ONLINE-SPHERE",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKiuSrOms0%2b3nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: РЯБЧЕНКО, Наталья Анатольевна / RYABCHENKO, Natalia. In: Youth World Politic. 2013 (2):100-106; Научно-исследовательский институт общественных и политических наук Language: Russian, База данных: ELibrary.RU\nТемы: online-пространство; web2.0; акторы; online-sphere; political parsing; POLITICAL socialization; internet; public policy actors; политический парсинг; политическая социализация; интернет; публичной политики\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 10,
+      "title": "Быстрый парсинг на Java / Fast parsing in Java",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKmzSbKssE6vnOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Вейко, Р.В. / Veiko, R.V.. In: Нейрокомпьютеры: разработка, применение. 2018 (5):12-16; ООО \"Издательское предприятие редакции журнала \"Радиотехника\" Language: Russian, База данных: ELibrary.RU\nТемы: java; neuron-like nondeterministic finite state machine; compilation theory; lexical analysis; regular expressions; recursive descent; syntax tree of parsing; neural networks; теория компиляции; лексический анализ; регулярные выражения; рекурсивный спуск; синтаксическое дерево разбора; нейроподобный недетерминированный конечный автомат; нейросети\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 11,
+      "title": "ПАРСИНГ И МАТЧИНГ ДАННЫХ ДЛЯ ОПЕРАТИВНОГО АНАЛИЗА ДИНАМИЧЕСКИХ СИТУАЦИЙ / PARSING AND MATCHING OF DATA FOR ON-LINE ANALYSIS OF DYNAMIC SITUATIONS",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKi3TK%2bssUy1nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Шведов, Даниил Игоревич / Shvedov, D.I.. In: Горный информационно-аналитический бюллетень (научно-технический журнал). 2017 (6):200-204; Общество с ограниченной ответственностью \"Горная книга\" Language: Russian, База данных: ELibrary.RU\nТемы: mapping; data analysis; information modules; parse; parser of terms; the algorithm Jaro-Winkler; анализ данных; сопоставление информации; информационные модули; синтаксический анализ; анализатор термов; алгоритм Джаро-Винклера\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 12,
+      "title": "Парсинг тексту термінологічних словників ; Parsing the text of terminology dictionaries",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bDX8T7y1%2bVVv8Skeeyz43zx2N%2bLrK6vT7GqwlHBnOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Дорожинська, А. В.; Dorozhynska, Olena. Видавництво Львівської політехніки Language: Ukrainian, База данных: BASE\nТемы: Львів; Lviv; комп’ютерна лексикографія; лексикографічна система; парсинг; синтаксичне дерево; XML; база даних; цифровий простір; computer lexicography; lexicographic system; parsing; database; digital space; 81′33\nДоступно только подробное описание"
+    },
+    {
+      "num": 13,
+      "title": "ЗАЩИТА WEB-КОНТЕНТА ОТ НЕЛЕГИТИМНОГО РОБОТИЗИРОВАННОГО КОПИРОВАНИЯ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2TLCotVCwnOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Демина, Р.Ю.; Ажмухамедов, И.М.. In: Вестник ГГНТУ. Технические науки. 2022 (1):11-17; Грозненский государственный нефтяной технический университет им. М.Д. Миллионщикова Language: Russian, База данных: ELibrary.RU\nТемы: web-development; parsing; protection from parsing; information security; web-разработка; парсинг; защита от парсинга; защита информации\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 14,
+      "title": "Заключительные этапы проектирования системы сбора и предиктивного анализа данных социальных медиа",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2Sbaqr0yynOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Калытюк, Иван Сергеевич; Французова, Галина Александровна; Гунько, Андрей Васильевич. In: Системы анализа и обработки данных. 2022 (1):59-72; Новосибирский государственный технический университет Language: Russian, База данных: ELibrary.RU\nТемы: social media; predictive analysis; system design; architecture; algorithm of functioning; data analysis; parsing; социальные медиа; предиктивный анализ; проектирование системы; архитектура; алгоритм функционирования; анализ данных; api; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 15,
+      "title": "ТЕМАТИЧЕСКИЙ АНАЛИЗ ДИСКУССИЙ С ПРИМЕНЕНИЕМ МЕТОДА ЛАТЕНТНОГО РАЗМЕЩЕНИЯ ДИРИХЛЕ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2SbGqtUq1nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Алмаев, Н.А.; Мурашева, О.В.. In: Институт психологии Российской академии наук. Социальная и экономическая психология. 2022 (1):47-69; Институт психологии РАН Language: Russian, База данных: ELibrary.RU\nТемы: thematic analysis; Latent Dirichlet Allocation; covid-dissidence; anti-vaccination; parsing; motivation; content analysis; social networks; bigrams; judgment collection; тематический анализ; латентное размещение Дирихле; ковид-диссидентство; антиваксерство; парсинг; мотивация; контент-анализ; социальные сети; биграммы; коллекции суждений\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 16,
+      "title": "Автоматизированный сбор данных сайтов на примере данных о научных работах",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq3S7ensk%2b0nOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Носачев, Егор Андреевич. In: Актуальные вопросы современной экономики. 2022 (7):581-584; ООО \"Институт развития образования и консалтинга\" Language: Russian, База данных: ELibrary.RU\nТемы: parsing; data collection; automation; парсинг; сбор данных; автоматизация\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 17,
+      "title": "ИСПОЛЬЗОВАНИЕ ПАРСЕРА СОЦИАЛЬНЫХ СЕТЕЙ ДЛЯ МОДЕЛИРОВАНИЯ ОРГАНИЗАЦИОННЫХ СИСТЕМ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq3TLCsr0%2bynOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Мунтян, Е.Р.; Колоденкова, А.Е.. In: Информатизация и связь. 2022 (2):30-34; Администрация Ярославской области, Министерство Российской Федерации по связи и информатизации, Государственная техническая комиссия при Президенте Российской Федерации Language: Russian, База данных: ELibrary.RU\nТемы: fuzzy graph; GH- graph; multiple and different types of edges; organizing system; parsing; parser; нечеткий граф; GH-граф; множественные и разнотипные связи; организационная система; парсинг; парсер\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 18,
+      "title": "ПРОБЛЕМЫ СБОРА ДАННЫХ С ВЕБ-САЙТОВ И ИХ РЕШЕНИЕ",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2TbWnsk%2bwnOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Ярцев, Владислав Дмитриевич; Хахина, Анна Михайловна. In: Заметки ученого. 2022 (4):48-54; Общество с ограниченной ответственностью \"Приоритет\" Language: Russian, База данных: ELibrary.RU\nТемы: collection; data; website; parsing; problem; web application; request; page; web service; user agent; library; regular expression; indexing; crawler; сбор; данные; веб-сайт; парсинг; проблема; веб-приложение; запрос; страница; веб-сервис; юзер-агент; библиотека; регулярное выражение; индексация; краулер\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
+    },
+    {
+      "num": 19,
+      "title": "Система автоматизированного поиска патентной информации",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2TbCntEuwnOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
+      "authors": "Научный журнал\nBy: Никифоров, Артём Алексеевич; Гудков, Кирилл Владимирович; Куц, Леонид Валентинович. In: Современные информационные технологии. 2022 (35):29-32; Пензенский государственный технологический университет Language: Russian, База данных: ELibrary.RU\nТемы: patent; search; automated system; algorithm; parsing; scraping; патент; поиск; автоматизированная система; алгоритм; парсинг; скрейпинг\nДоступно только подробное описание\nБиблиографическое описание - eLIBRARY.ru"
     },
     {
       "num": 20,
       "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
-      "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
-    },
-    {
-      "num": 20,
-      "title": "РАСПРЕДЕЛЕННАЯ СИСТЕМА СБОРА И АНАЛИЗА ЦИФРОВОГО СЛЕДА ОБУЧАЮЩЕГОСЯ ВУЗА",
-      "url": "https://eds.p.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrGruEq1lr9lpOrweezp33vy3%2b2G59q7SbGvtEyxprZJtZzxgeKzt0iw3ON646erfeOotUWyrLd8q9e0SeOj41Diq7BNr9y2S7envorj2ueLpOLfhuWz8I2k2uBV49rxferopIzf3btZzJzfhrvb4ovj4vBGsq6xUbKsrkik3O2K69fyVeTr6oTy2%2faMpN3zffHqu2zw6%2bMA\u0026vid\u003d0\u0026sid\u003d902febe1-ee27-469d-a61e-e8d5251f8391@redis",
+      "url": "https://eds.s.ebscohost.com/eds/viewarticle/render?data\u003ddGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bJQsaa0SLOk63nn5Kx94um%2bSa6lr06tqK5KsJa3UrKtuE21lr9lpOrweezp33vy3%2b2G59q7Ra%2bptk22q7BLtK%2bki%2bfau33fruNP5Ky0ReCsr1GrqrZ8rqO3ebaoq3my2LNIstq3UbSttVjw2%2bKB8Zzqeezdu4rznOJ6u9vii%2bPi8D7y1%2bVVv8Skeeyz43zx2%2bqKrKq2S7eqtEiunOSH8OPfjLvc84Tq6uOQ8pzljePp8lXS6PN9\u0026vid\u003d0\u0026sid\u003dea8e7f66-b619-48d0-9a82-a4b504d99677@redis",
       "authors": "Научный журнал\nBy: Михайлова, С.С.; Данилова, С.Д.; Веселов, А.В.. In: Современные наукоемкие технологии. 2022 (4):62-67; ООО \"Издательский дом \"Академия естествознания\" Language: Russian, База данных: ELibrary.RU\nТемы: digital footprint; distributed collection and analysis system; educational process trajectory; topic modeling; parsing; цифровой след; распределенная система сбора и анализа; траектория образовательного процесса; тематическое моделирование; парсинг\nДоступно только подробное описание\nИТМО Полный текстБиблиографическое описание - eLIBRARY.ru"
     }
   ]
