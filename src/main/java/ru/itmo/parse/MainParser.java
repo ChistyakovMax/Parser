@@ -23,7 +23,7 @@ public class MainParser {
     ArticleListPage articleListPage;
     String search = "парсинг";
 
-    Article article = new Article();
+    Article article;
 
     Articles articles = new Articles();
 
@@ -60,6 +60,7 @@ public class MainParser {
         }
 
         for (int i = 1; i < 21; i++){
+            article = new Article();
             article.setNum(i);
             //System.out.println(article.getNum());
 
@@ -74,8 +75,6 @@ public class MainParser {
 
             articles.addArticle(article);
         }
-
-        //System.out.println(articles.getArticleList());
 
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(articles);

@@ -7,14 +7,14 @@ import java.util.List;
 
 @Data
 public class Articles {
-    private List<Article> articleList;
+    private List<Article> articleList = new ArrayList<>();
 
     public void addArticle(Article article){
         this.articleList.add(article);
     }
 
-    public Articles(){
+    /*public Articles(){
         articleList = new ArrayList<>();
-    }
+    }*/
 
 }
